@@ -1,1 +1,1 @@
-# Machine-Learning-on-Malignancy_vs_Benign-Diagnosis
+# Machine-Learning-on-Breast-Cancer-Diagnosis
